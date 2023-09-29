@@ -1,4 +1,4 @@
-### Salve, eu sou o Ralph!
+# Salve, eu sou o Ralph!
 
 <a href="https://www.youtube.com/channel/UCAcx-QN4yV5vGLczRyFw7WA">
   <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=Ralph20s&show_icons=true&theme=radical" />
@@ -23,3 +23,11 @@
   <a href="https://www.linkedin.com/in/vitor-raphael-bezerra-454548244/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+##
+
+### O que vocês vão ver por aqui?
+  <p1>
+    <a href="https://github.com/Ralph20s/Guessing_Game_Python" target="_blank"><img align="center" alt="Ralph_Fliper" height="30" widht="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+          </a> 
+  </p1>
