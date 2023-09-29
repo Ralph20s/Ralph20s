@@ -1,16 +1,11 @@
-### Hi there 👋
+### Salve, Hola, Hello eu sou o Ralph
 
-<!--
-**Ralph20s/Ralph20s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Trabalhando no SOC
+- 🌱 Estudando CyberSec
+- ⚡ Fun fact: I don't like Mr.Robots
+<a href="https://github.com/Ralph20s/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Ralph20s&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/Ralph20s/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ralph20s&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=radical" />
+</a>
