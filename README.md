@@ -1,4 +1,7 @@
-# Salve, eu sou o Ralph!
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=21213b&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff1493&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Ralph+/+Raphael;I'm+19+years+old;I'm+from+Brazil;I'm+Study+CyberSec+carai;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 
 <a href="https://www.youtube.com/channel/UCAcx-QN4yV5vGLczRyFw7WA">
   <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=Ralph20s&show_icons=true&theme=radical" />
@@ -31,3 +34,5 @@
     <a href="https://github.com/Ralph20s/Guessing_Game_Python" target="_blank"><img align="center" alt="Ralph_Fliper" height="30" widht="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
           </a> 
   </p1>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=21213b&height=120&section=footer"/>
